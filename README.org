@@ -2,6 +2,9 @@ dungeon-mode - synchronous and asynchronous world sharing and change resolution
 
 #+CATEGORY: Dungeon
 
+*HISTORY
+At Coffman Student Union at the University of Minnesota in 1968, a fandom convention called Minicon was held and a game was played. That game was Minneapolis Dungeon. Now, all these years later, we bring you Minneapolis Dungeon for Emacs.
+
 * SYNOPSYS
 
 An hack-and-slash style mult-player dungeon crawl blending the
