@@ -2,14 +2,15 @@ dungeon-mode - synchronous and asynchronous world sharing and change resolution
 
 #+CATEGORY: Dungeon
 
-*HISTORY
-At Coffman Student Union at the University of Minnesota in 1968, a fandom convention called Minicon was held and a game was played. That game was Minneapolis Dungeon. Now, all these years later, we bring you Minneapolis Dungeon for Emacs.
-
 * SYNOPSYS
+
+*** rework this paragraph from what you like best from the inspiration (or other parts) ***
 
 An hack-and-slash style mult-player dungeon crawl blending the
 heuristics of NetHack with a combat engine inspired by Minnesota
 Dungeon (Minneapolis Dungeon, Larry's Maze, et. al.).
+
+*** cut -- remove these markers and fix the line spacing ***
 
 Requires GNU Emacs 26.3 or later, available here for most platforms:
   http://gnu.org/software/emacs
@@ -116,13 +117,17 @@ game, action, and inspecting and updating event properties on the fly.
 The general approach to game mechanics is taken from Minnesota
 Dungeon (or Minneapolis Dungeon, or just "Dungeon" if you happen to be
 from there), a contemporary to early D&D featuring an extremely simple
-rule-set and a zero or near-zero cost to play.  Larry Brawmer is
-generally crediting with creating the first Dungeon. Dungeon is
-characterized by borrowing heavy from prior art (e.g. other people's
-Dungeons that you've played in) as well as Science Fiction and Fantasy
-sources.  This has the effect of requiring lore as well as ingenuity
-on the part of players, who complete with baddies, traps, and curses to
-win treasure and go up in rank.
+rule-set and a zero or near-zero cost to play.  The game probably 
+originates most directly from gaming groups in Minneapolis and Madison 
+in the late 1950s.  We suspect dungeon or a percuror was played at the 
+first Minicon held at Coffman Union in 1958.
+
+Larry Brawmer is generally crediting with creating the first Dungeon. 
+Dungeon is characterized by borrowing heavy from prior art (e.g. other 
+people's Dungeons that you've played in) as well as Science Fiction and 
+Fantasy sources.  This has the effect of requiring lore as well as 
+ingenuity on the part of players, who complete with baddies, traps, and 
+curses to win treasure and go up in rank.
 
 Typical requirements are a pair of six sided dice, pencils, and a pad
 of quad-ruled graph-paper.  Apocryphally, a "good" Dungeon can be
