@@ -4,13 +4,9 @@ dungeon-mode - synchronous and asynchronous world sharing and change resolution
 
 * SYNOPSYS
 
-*** rework this paragraph from what you like best from the inspiration (or other parts) ***
-
 An hack-and-slash style mult-player dungeon crawl blending the
 heuristics of NetHack with a combat engine inspired by Minnesota
-Dungeon (Minneapolis Dungeon, Larry's Maze, et. al.).
-
-*** cut -- remove these markers and fix the line spacing ***
+Dungeon, a tabletop roleplaying game developed by Larry Brawmer.
 
 Requires GNU Emacs 26.3 or later, available here for most platforms:
   http://gnu.org/software/emacs
