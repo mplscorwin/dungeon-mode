@@ -4,6 +4,8 @@ dungeon-mode - synchronous and asynchronous world sharing and change resolution
 
 * SYNOPSYS
 
+#+HTML: <h2>We've moved!  Visit us <a href="/dungeon-mode/game">elsewhere on GitHub</a></h2>
+
 An hack-and-slash style mult-player dungeon crawl blending the
 heuristics of NetHack with a combat engine inspired by Minnesota
 Dungeon (Minneapolis Dungeon, Larry's Maze, et. al.).
