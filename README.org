@@ -13,6 +13,10 @@ Dungeon (Minneapolis Dungeon, Larry's Maze, et. al.).
 Requires GNU Emacs 26.3 or later, available here for most platforms:
   http://gnu.org/software/emacs
 
+We're extreemly grateful for the internet hosting we receive from GNU ("non-GNU", by GNU) [[https://savannah.nongnu.org/][Savannah]] and to [[https://fosshost.org][Fosshost]] who provides a smashing virtualized environment for testing and experimentation, and eventually to host our "Arcade".  Fosshost could really use [[https://fosshost.org/donate][financial support]], if you are in a position.  Appologies for any sense we misrepresent our cloud provider's need here: GH auto-rendering of org for README is ugly which may be our bad.
+
+[[https://github.com/mplscorwin/dungeon-mode/blob/parking/fosshost-bling/fosshost.org_Cloud_Dark.png]]
+
 #+BEGIN_QUOTE
 This file is a part of dungeon-mode.  It is not a part of GNU Emacs.
 This softare is released under the GNU Public Licence version three
